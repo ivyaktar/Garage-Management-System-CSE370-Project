@@ -1,0 +1,2 @@
+we are using builder-settings for managing inventory.php, category-add is a legacy code being used for showroom (we dont need to use the enhanced version for showroom)
+

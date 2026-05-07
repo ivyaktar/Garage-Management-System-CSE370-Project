@@ -1,0 +1,37 @@
+Mazidul Islam Kabbo
+24301500
+Section 3
+CSE370 Lab
+
+I made all the files and features in this folder, other people from the group have their own folder with files of the website with their features, if you want to see all the features together you have to download the contents of each folder and compile them then use the website.
+
+Thanks.
+
+
+
+All Features by Me (Kabbo/Foxrine):
+
+Basic Features: 
+Login/Signup Page
+Basic Car Part Store Management Front (product's store management, history view, basic filtering)
+Basic Car Showroom Management Front (car's showroom management, history view, basic filtering)
+Wishlist System (for cars from showroom and products from store)
+Warranty System (for cars from showroom and products from store)
+Review System (for cars from showroom and products from store)
+Basic Auction Management Front (integrated with cars from showroom)
+Basic Customer Support Front
+
+Intermediate Features:
+Repair Management Front (integrated with products from store)
+
+Somewhat Unique Feature: 
+Car Builder Front (integrated with products from store, similar to that of PC Parts Picker/Startech PC Builder website, used tags and categories to implement the feature)
+
+
+3 User bases / 3 distinct UI:
+Manager
+Employee
+Customer
+
+
+Made the EER/Schema that is in my folder, and also fixed and connected all the EERs considering their features after taking the individual floating EERs including fixing the errors in other's EER diagrams

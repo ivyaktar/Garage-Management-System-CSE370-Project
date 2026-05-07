@@ -1,0 +1,2 @@
+inventory is for manage inventory
+inventory-view is for view inventory
